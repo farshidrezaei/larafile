@@ -1,0 +1,13 @@
+{
+    "name": "farshidrezaei/larafile",
+    "description": "Laravel File Manager",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Farshid Rezaei",
+            "email": "farshid.net1@yahoo.com"
+        }
+    ],
+    "require": {}
+}
