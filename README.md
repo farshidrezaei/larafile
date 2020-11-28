@@ -13,7 +13,7 @@ easing common tasks used in many web projects, such as:
 - Upload/Download files.
 - Based on REST Apis.
 - Compatible with all client-side technologies (Vue, React, Angular, etc...).
-- With packages prepared for View and React.
+- With packages prepared for Vue and React.
 
 
 LaraFile is accessible, powerful, and provides tools required for large, robust applications.
